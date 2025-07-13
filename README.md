@@ -1,5 +1,7 @@
 # Hi, I'm Adam 👋
 
+Content can be accessed at: https://adamsaad604.azurewebsites.net/
+
 I'm a research-driven analyst with a professional background in **fundamental equity research**, and a deep personal and academic interest in **quantitative finance**.
 
 My GitHub is a curated collection of independent projects and study explorations ranging from factor investing models and event-driven strategies to valuation frameworks. Most projects are based on academic research or are extensions of my graduate-level coursework in quantitative finance.
