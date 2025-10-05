@@ -1,6 +1,6 @@
 # Hi, I'm Adam 👋
 
-Content can be accessed at: https://adamsaad604.azurewebsites.net/
+Content can be accessed at: adamsaad604.github.io
 
 I'm a research-driven analyst with a professional background in **fundamental equity research**, and a deep personal and academic interest in **quantitative finance**.
 
